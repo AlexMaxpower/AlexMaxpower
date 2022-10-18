@@ -1,4 +1,11 @@
-### Hi there 👋
+<a href="https://t.me/Maxpower2k">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://twitter.com/AlEremin">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+
 
 <!--
 **AlexMaxpower/AlexMaxpower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
