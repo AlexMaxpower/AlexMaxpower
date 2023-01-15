@@ -10,7 +10,7 @@
 📞 **Cityphone.online** - сервис определения оператора и региона по номеру телефона с пакетной обработкой Excel-файла. Сегментация клиентской базы по регионам РФ.<br />
 <a href="https://cityphone.online/">https://cityphone.online</a>
 
-🎭 **Explore With Me** — приложение, которое дает возможность делиться информацией об интересных событиях и помогает найти компанию для участия в них. Микросервисная архитектура с использованием Spring Boot, Hibernate, PostgreSQL, OpenFeign и Docker.<br/>
+🎭 **Explore With Me** — приложение, которое дает возможность делиться информацией об интересных событиях и помогает найти компанию для участия в них. Микросервисная архитектура с использованием Spring Boot, Hibernate, PostgreSQL, OpenFeign, Docker и Vaadin.<br/>
 https://github.com/AlexMaxpower/java-explore-with-me
 
 🎮 **ShareIt** - REST-сервисы с использованием Spring MVC, Spring Data, Hibernate, PostgreSQL, Keycloak и OAuth2, Docker Compose. Бекэнд на Spring Boot и фронтэнд в виде Telegram-бота.
@@ -23,3 +23,6 @@ https://github.com/AlexMaxpower/choicemarket
 🎥 **Filmorate** - REST-сервис с использованием Spring Boot, Maven, Lombok и взаимодействие с БД (H2) с помощью JDBC: Кинопоиск для своих - социальная сеть, которая
 поможет выбрать кино на основе того, какие фильмы вы и ваши друзья смотрите и какие оценки им ставите.<br />
 https://github.com/AlexMaxpower/java-filmorate
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexMaxpower&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexMaxpower&theme=nord_bright&utcOffset=3)
