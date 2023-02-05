@@ -27,3 +27,5 @@ https://github.com/AlexMaxpower/java-filmorate
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexMaxpower&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexMaxpower&theme=nord_bright&utcOffset=3)
 ![](https://hit.yhype.me/github/profile?user_id=96842661)
+
+![](https://www.codewars.com/users/Maxpower2k/badges/small)
